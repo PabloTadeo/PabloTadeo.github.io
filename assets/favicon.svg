@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rios-Gallardo">
+  <rect width="64" height="64" rx="13" fill="#0C2340"/>
+  <path d="M20 46V18h13.2c6.1 0 9.8 3.3 9.8 8.6 0 4-2.1 6.9-5.7 8l6.9 11.4h-7.2l-6-10.3h-4.2V46H20zm6.8-15.4h5.6c2.7 0 4.3-1.4 4.3-3.8s-1.6-3.8-4.3-3.8h-5.6v7.6z" fill="#FFFFFF"/>
+  <rect x="20" y="51" width="24" height="3.4" rx="1.7" fill="#F15A22"/>
+</svg>
