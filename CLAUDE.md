@@ -59,7 +59,7 @@ image slots can be committed before the image exists. Preserve this behaviour.
 - **New translation string** → append a `["English","Español"]` entry to `PAIRS` at the bottom of
   the file. The English side must match the element's inner HTML exactly (whitespace is normalised).
 - **Still pending**: Spanish for the `.entry` blocks (Teaching, Funding, Service, Education,
-  Presentations) and the 25 `.agent p` descriptions; Chinese version; figures for selected work
+  Presentations) and the `.agent p` descriptions; Chinese version; figures for selected work
   cards 02 and 03; the Shiny teaching app and the ML-Asymmetries repository in the ecosystem
   section.
 
